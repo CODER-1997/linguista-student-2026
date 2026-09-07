@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "791984725923",
+    "project_id": "linguistacenter-bf36c",
+    "storage_bucket": "linguistacenter-bf36c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791984725923:android:135d67a31e494d66bf4416",
+        "android_client_info": {
+          "package_name": "com.example.linguista_ios"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVCEe4TNTyKRG4HkX7-qxc1HDk4SuWQak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791984725923:android:dd792257df7782d5bf4416",
+        "android_client_info": {
+          "package_name": "com.example.linguista_pro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVCEe4TNTyKRG4HkX7-qxc1HDk4SuWQak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791984725923:android:44ff0ad7a4241a79bf4416",
+        "android_client_info": {
+          "package_name": "com.example.linguista_student_app_2026"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVCEe4TNTyKRG4HkX7-qxc1HDk4SuWQak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
